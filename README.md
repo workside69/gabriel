@@ -1,8 +1,11 @@
+<p align="center">
 <img src="https://github.com/workside69/gabriel/blob/master/file/gitvideo%20.gif">
+   </p>
 
 ### Hi 👋
 
 
+<img src="https://github.com/workside69/gabriel/blob/master/file/illustration.png"  width="300">
 
 
 
