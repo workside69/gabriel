@@ -5,9 +5,8 @@
 Estudante de Ciência de Dados
 <hr>
 <h4>Habilidades</<h4>
-   <hr>
-   R,Python,Excel,PowerBi
-   
+   <b>R,Python,Excel,PowerBi</b>
+   <br/>
 
    </p>
 
